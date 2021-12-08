@@ -33,5 +33,6 @@
                 </webResources>
             </configuration>
         </plugin>
+      </project>
     </plugins>
 </build>
